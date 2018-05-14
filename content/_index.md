@@ -8,8 +8,13 @@ draft: false
 - David Horowitz
 - Thomas Sowell
 - David Mamet
+- Yvgeny Zimyatin
+- Ronald Reagan
+- Tim Allen
 - Dave Rubin
 - Kanye West
+- Candace Owens
+- Tim Pool
 
 [Why I Left the Left](https://www.huffingtonpost.com/seth-swirsky/why-i-left-the-left_b_22666.html)
 
